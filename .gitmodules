@@ -1,0 +1,3 @@
+[submodule "ng-dynamic-component"]
+	path = ng-dynamic-component
+	url = git@github.com:rikisan1993/angular-dynamic-component.git
